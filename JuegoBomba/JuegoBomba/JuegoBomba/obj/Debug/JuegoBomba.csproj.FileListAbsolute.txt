@@ -1,0 +1,17 @@
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\JuegoBomba.dll
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\JuegoBomba.pdb
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.csprojResolveAssemblyReference.cache
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.csproj.CoreCompileInputs.cache
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.MainPage.xaml.g.cs
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.App.xaml.g.cs
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.Inicio.xaml.g.cs
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.dll
+c:\users\mayte14\source\repos\JuegoBomba\JuegoBomba\JuegoBomba\obj\Debug\JuegoBomba.pdb

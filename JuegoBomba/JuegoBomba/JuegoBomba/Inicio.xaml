@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JuegoBomba.Inicio">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="JUEGO XAMARIN BUSCAMINAS!!!" TextColor="Blue" FontSize="Large"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand" />
+            <Image x:Name="iconoBomba"></Image>
+            
+            <Button Text="1" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"
+                    Clicked="ButtonClicked"></Button>
+
+            <Button Text="2" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"
+                    BorderColor="Blue" Clicked="ButtonClicked"></Button>
+
+            <Button Text="3" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"
+                    BorderColor="Blue" Clicked="ButtonClicked"></Button>
+            
+            <Button Text="4" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"
+                    BorderColor="Blue" Clicked="ButtonClicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
